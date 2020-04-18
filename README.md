@@ -13,6 +13,6 @@ and
 
 <code>
 
-sudo pip3 install python3-nmap
+sudo pip3 install python-nmap
 
 </code>
