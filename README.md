@@ -6,8 +6,9 @@ Install nmap
 
 <code>
 sudo apt-get update && sudo apt-get install nmap 
-
-
+</code>
+and 
+<code>
 
 pip3 install python3-nmap
 
